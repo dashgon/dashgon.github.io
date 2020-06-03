@@ -1,6 +1,6 @@
 {
-  "short_name": "SQNews",
-  "name": "SpacetimeQ World News",
+  "short_name": "STQAdmin",
+  "name": "STQ Admin Dashboard",
   "icons": [
     {
       "src": "favicon.ico",
